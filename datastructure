@@ -1,0 +1,270 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Title: datastructure
+%%Creator: fig2dev Version 3.2 Patchlevel 5e
+%%CreationDate: Wed Nov  2 14:42:29 2016
+%%BoundingBox: 0 0 739 467
+%Magnification: 1.0000
+%%EndComments
+%%BeginProlog
+/$F2psDict 200 dict def
+$F2psDict begin
+$F2psDict /mtrx matrix put
+/col-1 {0 setgray} bind def
+/col0 {0.000 0.000 0.000 srgb} bind def
+/col1 {0.000 0.000 1.000 srgb} bind def
+/col2 {0.000 1.000 0.000 srgb} bind def
+/col3 {0.000 1.000 1.000 srgb} bind def
+/col4 {1.000 0.000 0.000 srgb} bind def
+/col5 {1.000 0.000 1.000 srgb} bind def
+/col6 {1.000 1.000 0.000 srgb} bind def
+/col7 {1.000 1.000 1.000 srgb} bind def
+/col8 {0.000 0.000 0.560 srgb} bind def
+/col9 {0.000 0.000 0.690 srgb} bind def
+/col10 {0.000 0.000 0.820 srgb} bind def
+/col11 {0.530 0.810 1.000 srgb} bind def
+/col12 {0.000 0.560 0.000 srgb} bind def
+/col13 {0.000 0.690 0.000 srgb} bind def
+/col14 {0.000 0.820 0.000 srgb} bind def
+/col15 {0.000 0.560 0.560 srgb} bind def
+/col16 {0.000 0.690 0.690 srgb} bind def
+/col17 {0.000 0.820 0.820 srgb} bind def
+/col18 {0.560 0.000 0.000 srgb} bind def
+/col19 {0.690 0.000 0.000 srgb} bind def
+/col20 {0.820 0.000 0.000 srgb} bind def
+/col21 {0.560 0.000 0.560 srgb} bind def
+/col22 {0.690 0.000 0.690 srgb} bind def
+/col23 {0.820 0.000 0.820 srgb} bind def
+/col24 {0.500 0.190 0.000 srgb} bind def
+/col25 {0.630 0.250 0.000 srgb} bind def
+/col26 {0.750 0.380 0.000 srgb} bind def
+/col27 {1.000 0.500 0.500 srgb} bind def
+/col28 {1.000 0.630 0.630 srgb} bind def
+/col29 {1.000 0.750 0.750 srgb} bind def
+/col30 {1.000 0.880 0.880 srgb} bind def
+/col31 {1.000 0.840 0.000 srgb} bind def
+
+end
+
+/cp {closepath} bind def
+/ef {eofill} bind def
+/gr {grestore} bind def
+/gs {gsave} bind def
+/sa {save} bind def
+/rs {restore} bind def
+/l {lineto} bind def
+/m {moveto} bind def
+/rm {rmoveto} bind def
+/n {newpath} bind def
+/s {stroke} bind def
+/sh {show} bind def
+/slc {setlinecap} bind def
+/slj {setlinejoin} bind def
+/slw {setlinewidth} bind def
+/srgb {setrgbcolor} bind def
+/rot {rotate} bind def
+/sc {scale} bind def
+/sd {setdash} bind def
+/ff {findfont} bind def
+/sf {setfont} bind def
+/scf {scalefont} bind def
+/sw {stringwidth} bind def
+/tr {translate} bind def
+/tnt {dup dup currentrgbcolor
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add srgb}
+  bind def
+/shd {dup dup currentrgbcolor 4 -2 roll mul 4 -2 roll mul
+  4 -2 roll mul srgb} bind def
+/$F2psBegin {$F2psDict begin /$F2psEnteredState save def} def
+/$F2psEnd {$F2psEnteredState restore end} def
+
+/pageheader {
+save
+newpath 0 467 moveto 0 0 lineto 739 0 lineto 739 467 lineto closepath clip newpath
+-70.1 479.8 translate
+1 -1 scale
+$F2psBegin
+10 setmiterlimit
+0 slj 0 slc
+ 0.06299 0.06299 sc
+} bind def
+/pagefooter {
+$F2psEnd
+restore
+} bind def
+%%EndProlog
+pageheader
+%
+% Fig objects follow
+%
+% 
+% here starts figure with depth 50
+% Polyline
+0 slj
+0 slc
+7.500 slw
+n 5055 495 m 4950 495 4950 930 105 arcto 4 {pop} repeat
+  4950 1035 6735 1035 105 arcto 4 {pop} repeat
+  6840 1035 6840 600 105 arcto 4 {pop} repeat
+  6840 495 5055 495 105 arcto 4 {pop} repeat
+ cp gs col0 s gr 
+% Polyline
+n 1320 1845 m 1215 1845 1215 2235 105 arcto 4 {pop} repeat
+  1215 2340 3225 2340 105 arcto 4 {pop} repeat
+  3330 2340 3330 1950 105 arcto 4 {pop} repeat
+  3330 1845 1320 1845 105 arcto 4 {pop} repeat
+ cp gs col0 s gr 
+% Polyline
+n 3975 1890 m 3870 1890 3870 2280 105 arcto 4 {pop} repeat
+  3870 2385 5880 2385 105 arcto 4 {pop} repeat
+  5985 2385 5985 1995 105 arcto 4 {pop} repeat
+  5985 1890 3975 1890 105 arcto 4 {pop} repeat
+ cp gs col0 s gr 
+% Polyline
+n 10455 1845 m 10350 1845 10350 2235 105 arcto 4 {pop} repeat
+  10350 2340 12360 2340 105 arcto 4 {pop} repeat
+  12465 2340 12465 1950 105 arcto 4 {pop} repeat
+  12465 1845 10455 1845 105 arcto 4 {pop} repeat
+ cp gs col0 s gr 
+% Polyline
+n 7305 3645 m 7200 3645 7200 4035 105 arcto 4 {pop} repeat
+  7200 4140 9210 4140 105 arcto 4 {pop} repeat
+  9315 4140 9315 3750 105 arcto 4 {pop} repeat
+  9315 3645 7305 3645 105 arcto 4 {pop} repeat
+ cp gs col0 s gr 
+% Polyline
+n 10185 3645 m 10080 3645 10080 4035 105 arcto 4 {pop} repeat
+  10080 4140 12090 4140 105 arcto 4 {pop} repeat
+  12195 4140 12195 3750 105 arcto 4 {pop} repeat
+  12195 3645 10185 3645 105 arcto 4 {pop} repeat
+ cp gs col0 s gr 
+% Polyline
+n 1320 3555 m 1215 3555 1215 4080 105 arcto 4 {pop} repeat
+  1215 4185 3990 4185 105 arcto 4 {pop} repeat
+  4095 4185 4095 3660 105 arcto 4 {pop} repeat
+  4095 3555 1320 3555 105 arcto 4 {pop} repeat
+ cp gs col0 s gr 
+% Polyline
+n 4830 3600 m 4725 3600 4725 3990 105 arcto 4 {pop} repeat
+  4725 4095 6735 4095 105 arcto 4 {pop} repeat
+  6840 4095 6840 3705 105 arcto 4 {pop} repeat
+  6840 3600 4830 3600 105 arcto 4 {pop} repeat
+ cp gs col0 s gr 
+% Polyline
+n 6945 1845 m 6840 1845 6840 2280 105 arcto 4 {pop} repeat
+  6840 2385 9750 2385 105 arcto 4 {pop} repeat
+  9855 2385 9855 1950 105 arcto 4 {pop} repeat
+  9855 1845 6945 1845 105 arcto 4 {pop} repeat
+ cp gs col0 s gr 
+% Polyline
+n 1125 5310 m 3240 5310 l 3240 7605 l 1125 7605 l
+ cp gs col0 s gr 
+% Polyline
+n 4680 5265 m 6795 5265 l 6795 7560 l 4680 7560 l
+ cp gs col0 s gr 
+% Polyline
+n 7965 5220 m 10080 5220 l 10080 7515 l 7965 7515 l
+ cp gs col0 s gr 
+% Polyline
+n 10710 5220 m 12825 5220 l 12825 7515 l 10710 7515 l
+ cp gs col0 s gr 
+% Polyline
+2 slj
+n 5850 1035 m
+ 2070 1890 l gs col0 s gr 
+% Polyline
+n 5805 1080 m
+ 5085 1890 l gs col0 s gr 
+% Polyline
+n 5805 1080 m
+ 8055 1845 l gs col0 s gr 
+% Polyline
+n 5805 1035 m
+ 11295 1845 l gs col0 s gr 
+% Polyline
+n 8280 2340 m
+ 7965 3690 l gs col0 s gr 
+% Polyline
+n 8280 2385 m
+ 11160 3645 l gs col0 s gr 
+% Polyline
+n 8280 2430 m
+ 5670 3600 l gs col0 s gr 
+% Polyline
+n 8280 2385 m
+ 2385 3555 l gs col0 s gr 
+/Times-Roman ff 317.50 scf sf
+4860 360 m
+gs 1 -1 sc (Employee data management system) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+5490 810 m
+gs 1 -1 sc (login) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+1485 2115 m
+gs 1 -1 sc (insert data) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+4365 2160 m
+gs 1 -1 sc (view data) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+6885 2160 m
+gs 1 -1 sc (administrator window) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+10755 2160 m
+gs 1 -1 sc (search data) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+1350 3870 m
+gs 1 -1 sc (delete employee data) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+4860 3915 m
+gs 1 -1 sc (change password) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+7605 3915 m
+gs 1 -1 sc (log) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+10620 3915 m
+gs 1 -1 sc (trash) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+1260 5130 m
+gs 1 -1 sc (data.txt) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+4905 5040 m
+gs 1 -1 sc (log.txt) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+8280 5040 m
+gs 1 -1 sc (trash.txt) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+11160 5085 m
+gs 1 -1 sc (paswrd.txt) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+1170 5760 m
+gs 1 -1 sc (contains record of) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+1215 6120 m
+gs 1 -1 sc (employee) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+4770 5805 m
+gs 1 -1 sc (contains log of) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+4815 6165 m
+gs 1 -1 sc (activities) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+8055 5760 m
+gs 1 -1 sc (contains deleted) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+8100 6120 m
+gs 1 -1 sc (record of employee) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+10980 5895 m
+gs 1 -1 sc (contains ) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+10935 6255 m
+gs 1 -1 sc (authenticated) col0 sh gr
+/Times-Roman ff 317.50 scf sf
+10890 6570 m
+gs 1 -1 sc (ID and PASSWORD) col0 sh gr
+% here ends figure;
+pagefooter
+showpage
+%%Trailer
+%EOF
